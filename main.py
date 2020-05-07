@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 27 19:04:49 2020
-
-@author: Cheeku
-"""
-
 import bs4
 import pymongo
 import pandas as pd
