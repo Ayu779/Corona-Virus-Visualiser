@@ -7,7 +7,7 @@ Libraries :
 3. pandas==0.24.2
 4. urllib3==1.24.2
 5. pygal==2.4.0
-6. pygal-maps-world==1.0.2
+6. pygal_maps_world==1.0.2
 
 To Use:
   Run main.py
